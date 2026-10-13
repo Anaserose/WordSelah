@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editors and OS
+.idea/
+.vscode/
+.DS_Store
+
+# Local data for the later versions (SQLite, preferences)
+*.db
+*.sqlite3
